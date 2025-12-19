@@ -1,0 +1,156 @@
+{
+  "pays": "Lettonie",
+  "drapeau": "🇱🇻",
+  "symbole": "⚓",
+  "titre": "Escapade Baltique: Charme Côtier à Roja",
+  "budget_total": "2450€",
+  "duree": "3 jours",
+  "temps_vol": "20h avec escales depuis Webe, Congo",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée paisible à Roja",
+      "legende": "Après un long voyage, la petite ville côtière de Roja vous accueille avec sa tranquillité. Prenez le temps de vous installer et de faire une première découverte douce des environs, en vous imprégnant de l'atmosphère maritime. Laissez le vent de la Baltique vous rafraîchir et préparez-vous à explorer ce joyau caché.",
+      "lieu": "Roja",
+      "activites": [
+        "🛬 <strong>Arrivée et transfert à Roja</strong>: Après l'atterrissage à Riga, un transfert confortable vous mènera à Roja, un trajet d'environ deux heures à travers la campagne lettone.",
+        "🛏️ <strong>Installation à l'hôtel et repos</strong>: Prenez possession de votre chambre d'hôtel 3 étoiles et accordez-vous un moment de détente bien mérité pour récupérer du voyage."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Conseil d'arrivée",
+          "texte": "Le transfert de Riga à Roja peut se faire en bus public, une option économique et pittoresque. Les horaires sont disponibles en ligne."
+        },
+        {
+          "symbole": "⏰",
+          "titre": "Décalage horaire",
+          "texte": "La Lettonie est en GMT+3, soit 2 heures d'avance sur Webe. Prévoyez un temps d'adaptation."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌊",
+      "titre": "Immersion dans la vie maritime de Roja",
+      "legende": "Aujourd'hui, plongez au cœur de l'identité de Roja, une ville façonnée par la mer. Explorez son histoire de pêcheurs, ressentez la brise marine sur la plage et savourez les saveurs locales. Une journée dédiée à la découverte authentique de ce port charmant, entre culture et nature.",
+      "lieu": "Roja",
+      "activites": [
+        "🏛️ <strong>Visite du Musée Maritime de Roja</strong>: Découvrez l'histoire fascinante de la pêche et de la navigation dans la région à travers des expositions captivantes et des artefacts maritimes.",
+        "🏖️ <strong>Détente sur la plage de Roja</strong>: Profitez du sable fin et des eaux calmes de la plage locale, idéale pour une promenade relaxante ou simplement pour admirer la mer Baltique.",
+        "🍽️ <strong>Dégustation de poisson frais au port</strong>: Terminez la journée en savourant un délicieux repas de poisson fraîchement pêché dans l'un des petits restaurants du port, une véritable expérience culinaire locale."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🐟",
+          "titre": "Spécialité locale",
+          "texte": "Ne manquez pas de goûter au poisson fumé, une spécialité de Roja, souvent vendu directement par les pêcheurs."
+        },
+        {
+          "symbole": "🚶‍♂️",
+          "titre": "Exploration à pied",
+          "texte": "Roja est une petite ville qui se prête parfaitement à l'exploration à pied, minimisant ainsi les besoins en transport local."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌲",
+      "titre": "Nature et adieux à la côte",
+      "legende": "Pour votre dernière journée, connectez-vous avec la nature environnante de Roja. Explorez ses paysages verdoyants et ses sentiers côtiers avant de vous préparer à quitter ce havre de paix. Emportez avec vous les souvenirs de la Baltique et la sérénité de la Lettonie.",
+      "lieu": "Roja et Riga",
+      "activites": [
+        "🚶‍♀️ <strong>Randonnée le long de l'estuaire de la Roja</strong>: Partez à la découverte des sentiers naturels qui bordent l'estuaire de la rivière Roja, offrant des vues paisibles et une riche biodiversité.",
+        "🛍️ <strong>Achats de souvenirs locaux</strong>: Avant de partir, trouvez quelques souvenirs artisanaux ou produits locaux pour prolonger le plaisir de votre séjour à Roja.",
+        "✈️ <strong>Transfert retour vers Riga et départ</strong>: Après un dernier repas letton, vous prendrez le bus pour Riga afin de rejoindre l'aéroport pour votre vol de retour."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Idées souvenirs",
+          "texte": "L'ambre de la Baltique est un souvenir emblématique de la Lettonie, souvent transformé en bijoux ou petits objets décoratifs."
+        },
+        {
+          "symbole": "🚌",
+          "titre": "Conseil transport",
+          "texte": "Réservez votre billet de bus pour Riga à l'avance, surtout en haute saison, pour garantir votre place."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "2000€/pers (Vol A/R Webe-Riga en classe économique avec escales)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "50€/pers (Transferts A/R Riga-Roja en bus et déplacements locaux)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "150€/pers (3 jours, repas de type moyen, incluant spécialités locales)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "180€/pers (2 nuits en hôtel 3 étoiles à Roja)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "50€/pers (Musée, petites excursions, souvenirs)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de juin, juillet et août.",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La Lettonie est un pays balte membre de l'Union Européenne. Sa capitale est Riga. La population de Roja est d'environ 2000 habitants, principalement axée sur la pêche.",
+      "symbole": "🇱🇻"
+    },
+    {
+      "titre": "La monnaie est l'Euro (€). Les cartes bancaires sont largement acceptées, mais un peu de liquide est utile pour les petits commerces ou marchés.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Une curiosité lettone est la \"Chanson et Danse de la Révolution Chantante\", un mouvement pacifique qui a mené à l'indépendance du pays. Le pays est aussi réputé pour ses vastes forêts et ses tourbières.",
+      "symbole": "🎶"
+    },
+    {
+      "titre": "La langue officielle est le letton, mais l'anglais est souvent parlé dans les zones touristiques et par les jeunes. Quelques mots de letton seront appréciés.",
+      "symbole": "🗣️"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations touristiques officielles sur la Lettonie",
+      "titre": "Latvia Travel",
+      "url": "https://www.latvia.travel/fr",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Horaires des bus entre Riga et Roja",
+      "titre": "Autobusu Parks Tukums",
+      "url": "https://www.tp.lv/en/routes-and-schedules",
+      "symbole": "🚌"
+    },
+    {
+      "legende": "Prévisions météo pour la Lettonie",
+      "titre": "Meteo.lv",
+      "url": "https://www.meteo.lv/en/",
+      "symbole": "🌤️"
+    }
+  ]
+}
